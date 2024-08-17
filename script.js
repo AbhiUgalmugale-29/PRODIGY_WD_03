@@ -45,3 +45,17 @@ function cheakWin() {
         }
     }
 }
+function cheakDraw() {
+    if (!isGameOver) {
+        let isDraw = true;
+        boxes.forEach(e => {
+            if (e.innerHTML === "") isDraw = false;
+        })
+
+        if (isDraw) {
+            isGameOver = true;
+            document.querySelector("#results").innerHTML = "Draw";
+            document.querySelector("#play-again").style.display = "inline"
+        }
+    }
+}
