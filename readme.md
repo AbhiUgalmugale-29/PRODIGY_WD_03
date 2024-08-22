@@ -28,10 +28,6 @@ This is a simple, interactive Tic Tac Toe game built using HTML, CSS, and JavaSc
 5. If a player wins, the winning combination is highlighted, and the result is displayed. If it's a draw, "Draw" is displayed.
 6. Click the "Play Again" button to reset the game.
 
-## Hosting
-
-This project is hosted on Netlify. You can access the live game [here](https://tictacgamewebsite.netlify.app/).
-
 ## Installation
 
 If you want to run this project locally, follow these steps:
@@ -49,7 +45,3 @@ If you want to run this project locally, follow these steps:
     ```
 
 3. Open `index.html` in your preferred browser.
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
