@@ -77,17 +77,17 @@ body {
     background-color: #FF2E63;
 }
 
-#play-again {
+#play-again, #start-game, #end-game {
     background-color: #FF2E63;
     padding: 10px 25px;
     border: none;
     font-size: 1.2rem;
     border-radius: 5px;
     cursor: pointer;
-    display: none;
+    margin: 10px 0;
 }
 
-#play-again:hover {
+#play-again:hover, #start-game:hover, #end-game:hover {
     padding: 10px 40px;
     background-color: #08D9D6;
     color: #000;
