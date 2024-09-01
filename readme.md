@@ -1,6 +1,6 @@
 # Tic Tac Toe Game
 
-![Tic Tac Toe Game Screenshot](./screenshot/Screenshot%20(281).png)
+![Tic Tac Toe Game Screenshot](./screenshot/Screenshot%20(319).png)
 
 This is a simple, interactive Tic Tac Toe game built using HTML, CSS, and JavaScript. The game allows two players to take turns marking spaces in a 3×3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game.
 
